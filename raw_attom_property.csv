@@ -1,0 +1,101 @@
+property_title,location,number_of_rooms,price,size,listing_type
+9836 YOAKUM DR,9836 YOAKUM DR,"{'bathsfull': 1, 'bathstotal': 1.0, 'beds': 2, 'roomsTotal': 5}",,674,sale
+13345 MULHOLLAND DR,13345 MULHOLLAND DR,"{'bathsfull': 2, 'bathstotal': 2.0, 'beds': 2, 'roomsTotal': 6}",,,sale
+2840 N BEVERLY DR,2840 N BEVERLY DR,"{'bathsfull': 8, 'bathstotal': 8.0, 'beds': 4}",,6997,sale
+9360 BEVERLY CREST DR,9360 BEVERLY CREST DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 5}",,,sale
+9801 EASTON DR,9801 EASTON DR,"{'bathsfull': 2, 'bathstotal': 2.0, 'beds': 3}",,1147,sale
+1438 DAVIES DR,1438 DAVIES DR,"{'bathsfull': 2, 'bathstotal': 2.0, 'beds': 2}",,,sale
+9333 HAZEN DR,9333 HAZEN DR,"{'bathsfull': 1, 'bathstotal': 1.0, 'beds': 1, 'roomsTotal': 3}",,1247,sale
+9331 HAZEN DR,9331 HAZEN DR,"{'bathsfull': 1, 'bathstotal': 1.0, 'beds': 5, 'roomsTotal': 10}",,1000,sale
+9810 PORTOLA DR,9810 PORTOLA DR,"{'bathsfull': 1, 'bathstotal': 1.0, 'beds': 2, 'roomsTotal': 6}",,935,sale
+9805 PORTOLA DR,9805 PORTOLA DR,{},,,sale
+2859 COLDWATER CANYON DR,2859 COLDWATER CANYON DR,"{'bathsfull': 6, 'bathstotal': 6.0, 'beds': 5, 'roomsTotal': 22}",,5082,sale
+412 ROBERT LN,412 ROBERT LN,"{'bathsfull': 6, 'bathstotal': 6.0, 'beds': 4, 'roomsTotal': 23}",,,sale
+9801 WANDA PARK DR,9801 WANDA PARK DR,{},,,sale
+2500 SUMMITRIDGE DR,2500 SUMMITRIDGE DR,"{'bathsfull': 1, 'bathstotal': 1.0, 'beds': 2, 'roomsTotal': 7}",,1440,sale
+257 N CANON DR,257 N CANON DR,{},,7479,sale
+900 N CRESCENT DR,900 N CRESCENT DR,"{'bathsfull': 11, 'bathstotal': 11.0, 'beds': 7, 'roomsTotal': 27}",,44925,sale
+1169 N HILLCREST RD,1169 N HILLCREST RD,"{'bathsfull': 8, 'bathstotal': 8.0, 'beds': 5, 'roomsTotal': 26}",,,sale
+210 LADERA DR,210 LADERA DR,{},,,sale
+9508 TULLIS DR,9508 TULLIS DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 4}",,,sale
+9985 REEVESBURY DR,9985 REEVESBURY DR,"{'bathsfull': 3, 'bathstotal': 3.0, 'beds': 2, 'roomsTotal': 2}",,,sale
+1360 SUMMITRIDGE PL,1360 SUMMITRIDGE PL,"{'bathsfull': 5, 'bathstotal': 5.0, 'beds': 3}",,,sale
+9510 TULLIS DR,9510 TULLIS DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 4, 'roomsTotal': 13}",,,sale
+1051 MARILYN DR,1051 MARILYN DR,"{'bathsfull': 5, 'bathstotal': 5.0, 'beds': 3, 'roomsTotal': 15}",,,sale
+13375 MULHOLLAND DR,13375 MULHOLLAND DR,{},,,sale
+13411 JAVA DR,13411 JAVA DR,"{'bathsfull': 3, 'bathstotal': 3.0, 'beds': 3, 'roomsTotal': 11}",,,sale
+1054 ANGELO DR,1054 ANGELO DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 3, 'roomsTotal': 14}",,,sale
+13741 MULHOLLAND DR,13741 MULHOLLAND DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 2, 'roomsTotal': 5}",,,sale
+1414 DAWNRIDGE DR,1414 DAWNRIDGE DR,"{'bathsfull': 6, 'bathstotal': 6.0, 'beds': 5}",,4582,sale
+1041 MARILYN DR,1041 MARILYN DR,"{'bathsfull': 5, 'bathstotal': 5.0, 'beds': 4, 'roomsTotal': 14}",,,sale
+12900 MULHOLLAND DR,12900 MULHOLLAND DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 3, 'roomsTotal': 12}",,,sale
+1645 N BEVERLY DR,1645 N BEVERLY DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 4, 'roomsTotal': 6}",,3204,sale
+1264 ANGELO DR,1264 ANGELO DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 3, 'roomsTotal': 13}",,,sale
+9821 YOAKUM DR,9821 YOAKUM DR,"{'bathsfull': 2, 'bathstotal': 2.0, 'beds': 1, 'roomsTotal': 7}",,,sale
+718 N OAKHURST DR,718 N OAKHURST DR,"{'bathsfull': 3, 'bathstotal': 3.0, 'beds': 3, 'roomsTotal': 12}",,3080,sale
+1046 N HILLCREST RD,1046 N HILLCREST RD,{},,,sale
+1071 N HILLCREST RD,1071 N HILLCREST RD,{},,,sale
+1157 N HILLCREST RD,1157 N HILLCREST RD,"{'bathsfull': 5, 'bathstotal': 5.0, 'beds': 3, 'roomsTotal': 16}",,4524,sale
+1627 BENEDICT CANYON DR,1627 BENEDICT CANYON DR,{},,,sale
+9491 SUNSET BLVD,9491 SUNSET BLVD,"{'bathsfull': 9, 'bathstotal': 9.0, 'beds': 9, 'roomsTotal': 18}",,16621,sale
+13200 MULHOLLAND DR,13200 MULHOLLAND DR,"{'bathsfull': 5, 'bathstotal': 5.0, 'beds': 3}",,,sale
+10111 WESTWANDA DR,10111 WESTWANDA DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 5}",,,sale
+602 MOUNTAIN DR,602 MOUNTAIN DR,"{'bathsfull': 4, 'bathstotal': 4.5, 'beds': 5, 'roomsTotal': 21}",,,sale
+1427 LAUREL WAY,1427 LAUREL WAY,"{'bathsfull': 5, 'bathstotal': 5.0, 'beds': 5, 'roomsTotal': 13}",,5269,sale
+1485 BLUERIDGE DR,1485 BLUERIDGE DR,"{'bathsfull': 10, 'bathstotal': 10.0, 'beds': 7, 'roomsTotal': 11}",,9044,sale
+1096 WALLACE RDG,1096 WALLACE RDG,"{'bathsfull': 11, 'bathstotal': 11.0, 'beds': 9, 'roomsTotal': 13}",,,sale
+12001 MULHOLLAND DR,12001 MULHOLLAND DR,{},,,sale
+9840 WANDA PARK DR,9840 WANDA PARK DR,{},,,sale
+985 N ALPINE DR,985 N ALPINE DR,"{'bathsfull': 6, 'bathstotal': 6.0, 'beds': 5}",,,sale
+1250 TOWER GROVE DR,1250 TOWER GROVE DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 3, 'roomsTotal': 9}",,4767,sale
+9959 BEVERLY GROVE DR,9959 BEVERLY GROVE DR,"{'beds': 2, 'roomsTotal': 13}",,,sale
+9531 HIDDEN VALLEY RD,9531 HIDDEN VALLEY RD,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 3}",,6557,sale
+9603 OAK PASS RD,9603 OAK PASS RD,{},,,sale
+104 N REXFORD DR,104 N REXFORD DR,{},,,sale
+1740 SUMMITRIDGE DR,1740 SUMMITRIDGE DR,{},,,sale
+1699 N BEVERLY DR,1699 N BEVERLY DR,{},,,sale
+9910 TOWER LN,9910 TOWER LN,"{'bathsfull': 7, 'bathstotal': 7.0, 'beds': 6}",,,sale
+13444 JAVA DR,13444 JAVA DR,"{'bathsfull': 2, 'bathstotal': 2.0, 'beds': 3, 'roomsTotal': 8}",,,sale
+9385 WILSHIRE BLVD,9385 WILSHIRE BLVD,{},,,sale
+9393 WILSHIRE BLVD,9393 WILSHIRE BLVD,{},,,sale
+10021 WESTWANDA DR,10021 WESTWANDA DR,"{'bathsfull': 1, 'bathstotal': 1.0, 'beds': 1, 'roomsTotal': 4}",,,sale
+1729 ANGELO DR,1729 ANGELO DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 4}",,,sale
+9938 TOWER LN,9938 TOWER LN,"{'bathsfull': 6, 'bathstotal': 6.5, 'beds': 6, 'roomsTotal': 25}",,,sale
+1531 GILCREST DR,1531 GILCREST DR,{},,,sale
+804 N BEVERLY DR,804 N BEVERLY DR,"{'bathsfull': 1, 'bathstotal': 1.0, 'roomsTotal': 4}",,,sale
+615 N CANON DR,615 N CANON DR,"{'bathsfull': 8, 'bathstotal': 8.0, 'beds': 9, 'roomsTotal': 24}",,,sale
+805 N ROXBURY DR,805 N ROXBURY DR,"{'bathsfull': 5, 'bathstotal': 5.0, 'beds': 7, 'roomsTotal': 18}",,6571,sale
+807 CINTHIA ST,807 CINTHIA ST,"{'bathsfull': 5, 'bathstotal': 5.0, 'beds': 5, 'roomsTotal': 18}",,,sale
+9171 W 3RD ST,9171 W 3RD ST,"{'bathsfull': 1, 'bathstotal': 1.0, 'beds': 2}",,,sale
+331 N OAKHURST DR,331 N OAKHURST DR,"{'bathsfull': 1, 'bathstotal': 1.0, 'beds': 2}",,,sale
+9214 W 3RD ST,9214 W 3RD ST,{},,,sale
+1117 N BEVERLY DR,1117 N BEVERLY DR,{},,,sale
+1009 LAUREL WAY,1009 LAUREL WAY,{},,,sale
+1183 SUMMIT DR,1183 SUMMIT DR,{},,,sale
+1162 TOWER RD,1162 TOWER RD,{},,,sale
+1040 ANGELO DR,1040 ANGELO DR,{},,,sale
+2552 HUTTON DR,2552 HUTTON DR,{},,,sale
+13442 JAVA DR,13442 JAVA DR,"{'bathsfull': 3, 'bathstotal': 3.0, 'beds': 4, 'roomsTotal': 11}",,,sale
+2641 HUTTON DR,2641 HUTTON DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 3, 'roomsTotal': 12}",,2100,sale
+2721 ELLISON DR,2721 ELLISON DR,"{'beds': 2, 'roomsTotal': 8}",,,sale
+2878 DEEP CANYON DR,2878 DEEP CANYON DR,{},,,sale
+59 BEVERLY PARK,59 BEVERLY PARK,"{'bathsfull': 1, 'bathstotal': 1.0, 'beds': 2}",,2308,sale
+1150 LA COLLINA DR,1150 LA COLLINA DR,"{'bathsfull': 5, 'bathstotal': 5.0, 'beds': 5, 'roomsTotal': 12}",,,sale
+1220 LA COLLINA DR,1220 LA COLLINA DR,{},,400,sale
+510 N ALPINE DR,510 N ALPINE DR,"{'bathsfull': 3, 'bathstotal': 3.0, 'beds': 4, 'roomsTotal': 10}",,2318,sale
+425 N PALM DR APT 101,425 N PALM DR APT 101,"{'bathsfull': 12, 'bathstotal': 12.0, 'beds': 16}",,12810,sale
+703 N BEDFORD DR,703 N BEDFORD DR,"{'bathsfull': 2, 'bathstotal': 2.0, 'beds': 2, 'roomsTotal': 10}",,,sale
+621 N CAMDEN DR,621 N CAMDEN DR,"{'bathsfull': 7, 'bathstotal': 7.0, 'beds': 6, 'roomsTotal': 17}",,4254,sale
+1740 GREEN ACRES DR,1740 GREEN ACRES DR,{},,,sale
+1735 ANGELO DR,1735 ANGELO DR,{},,,sale
+811 N ALTA DR,811 N ALTA DR,"{'bathsfull': 7, 'bathstotal': 7.0, 'beds': 4, 'roomsTotal': 19}",,5239,sale
+916 FOOTHILL RD,916 FOOTHILL RD,"{'bathsfull': 6, 'bathstotal': 6.0, 'beds': 4}",,3614,sale
+661 DOHENY RD,661 DOHENY RD,"{'bathsfull': 7, 'bathstotal': 7.0, 'beds': 5}",,7003,sale
+1129 MIRADERO RD,1129 MIRADERO RD,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 3, 'roomsTotal': 13}",,3384,sale
+1193 LOMA LINDA DR,1193 LOMA LINDA DR,{},,1273,sale
+9487 READCREST DR,9487 READCREST DR,"{'bathsfull': 3, 'bathstotal': 3.0, 'beds': 2}",,,sale
+9412 BEVERLY CREST DR,9412 BEVERLY CREST DR,"{'beds': 2, 'roomsTotal': 8}",,,sale
+1422 LINDACREST DR,1422 LINDACREST DR,{},,,sale
+1462 CLARIDGE DR,1462 CLARIDGE DR,"{'bathsfull': 4, 'bathstotal': 4.0, 'beds': 4}",,3106,sale
+1426 HARRIDGE DR,1426 HARRIDGE DR,{},,1044,sale
+1636 SUMMITRIDGE DR,1636 SUMMITRIDGE DR,"{'bathsfull': 6, 'bathstotal': 6.0, 'beds': 5, 'roomsTotal': 22}",,,sale
