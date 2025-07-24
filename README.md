@@ -1,6 +1,4 @@
-# Ikhlas_ML_Project
 # Real Estate Property Pricing Prediction Project
-
 ## Project Objectives
 This project simulates a real-world data task involving the collection, cleaning, integration, and modeling of real estate property data. The primary goals are:
 - Collect property listings data from two real estate APIs.
